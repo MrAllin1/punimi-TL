@@ -38335,7 +38335,7 @@ q=A.f1(10)
 n=t.E
 k=t.xx
 g=t.QH
-return new A.pb(A.aiW(new A.rG(B.NX,B.a0,new A.M6(e,e,1/0,56),e),B.rf,A.GP(A.iY(A.Cz(A.a([B.x8,A.pH(A.a([s,new A.c0(B.BD,A.hj(e,A.GP(A.Cz(A.a([B.NN,new A.c0(B.eA,A.j3(f.d,e,e,e,B.aT,e,e),e)],n),B.aW,B.cD,B.bl),B.aO),B.A,e,e,new A.ct(e,e,r,q,e,e,B.az),200,e,e,300),e)],n),B.aW,B.dG,B.bl,e),A.pH(A.a([A.lS(B.NO,new A.aas(f),A.fv(e,e,A.i2(new A.aat()),e,e,e,e,e,e,e,e,e,e,e,e,new A.aM(new A.bq(A.f1(10),B.m),k),new A.aM(B.bG,g),e,e,e,e,e)),new A.c0(B.eA,A.lS(B.NQ,new A.aau(a),A.fv(e,e,A.i2(new A.aav()),e,e,e,e,e,e,e,e,e,e,e,e,new A.aM(new A.bq(A.f1(10),B.m),k),new A.aM(B.bG,g),e,e,e,e,e)),e)],n),B.aW,B.dG,B.bl,e),B.x8],n),B.aW,B.FJ,B.bl),d.a.b,c.a.a),B.aO)),!1,e)}}
+return new A.pb(A.aiW(new A.rG(B.NU,B.a0,new A.M6(e,e,1/0,56),e),B.rf,A.GP(A.iY(A.Cz(A.a([B.x8,A.pH(A.a([s,new A.c0(B.BD,A.hj(e,A.GP(A.Cz(A.a([B.NN,new A.c0(B.eA,A.j3(f.d,e,e,e,B.aT,e,e),e)],n),B.aW,B.cD,B.bl),B.aO),B.A,e,e,new A.ct(e,e,r,q,e,e,B.az),200,e,e,300),e)],n),B.aW,B.dG,B.bl,e),A.pH(A.a([A.lS(B.NO,new A.aas(f),A.fv(e,e,A.i2(new A.aat()),e,e,e,e,e,e,e,e,e,e,e,e,new A.aM(new A.bq(A.f1(10),B.m),k),new A.aM(B.bG,g),e,e,e,e,e)),new A.c0(B.eA,A.lS(B.NQ,new A.aau(a),A.fv(e,e,A.i2(new A.aav()),e,e,e,e,e,e,e,e,e,e,e,e,new A.aM(new A.bq(A.f1(10),B.m),k),new A.aM(B.bG,g),e,e,e,e,e)),e)],n),B.aW,B.dG,B.bl,e),B.x8],n),B.aW,B.FJ,B.bl),d.a.b,c.a.a),B.aO)),!1,e)}}
 A.aay.prototype={
 $0(){var s=this.a,r=s.r,q=this.b
 s.xs("\u2022 Strategjia "+r[q]+" dominohet rigorozisht nga strategjia "+r[this.c]+" p\xebr lojtarin 1")
@@ -38412,9 +38412,9 @@ q.push(A.hj(l,A.atA(B.Cg,B.d.a1(J.dv(o[p]),1,J.dv(s[r][p]).length-1),B.Km,new A.
 s=t.QH
 q=t.xx
 j.push(A.lS(B.NR,new A.aaG(m),A.fv(l,l,A.i2(new A.aaH()),l,l,l,l,l,l,l,l,l,l,l,l,new A.aM(new A.bq(A.f1(10),B.m),q),new A.aM(B.bG,s),l,l,l,l,l)))
-j.push(new A.c0(B.eA,A.pH(A.a([A.lS(B.NP,m.ga6I(),A.fv(l,l,A.i2(new A.aaI()),l,l,l,l,l,l,l,l,l,l,l,l,new A.aM(new A.bq(A.f1(10),B.m),q),new A.aM(B.bG,s),l,l,l,l,l)),new A.c0(B.ls,A.lS(B.NV,m.ga6A(),A.fv(l,l,A.i2(new A.aaJ()),l,l,l,l,l,l,l,l,l,l,l,l,new A.aM(new A.bq(A.f1(10),B.m),q),new A.aM(B.bG,s),l,l,l,l,l)),l)],k),B.aW,B.dG,B.bl,l),l))
+j.push(new A.c0(B.eA,A.pH(A.a([A.lS(B.NP,m.ga6I(),A.fv(l,l,A.i2(new A.aaI()),l,l,l,l,l,l,l,l,l,l,l,l,new A.aM(new A.bq(A.f1(10),B.m),q),new A.aM(B.bG,s),l,l,l,l,l)),new A.c0(B.ls,A.lS(B.NW,m.ga6A(),A.fv(l,l,A.i2(new A.aaJ()),l,l,l,l,l,l,l,l,l,l,l,l,new A.aM(new A.bq(A.f1(10),B.m),q),new A.aM(B.bG,s),l,l,l,l,l)),l)],k),B.aW,B.dG,B.bl,l),l))
 j.push(new A.c0(B.Bt,A.pH(A.a([A.lS(B.NS,m.gadr(),A.fv(l,l,A.i2(new A.aaK()),l,l,l,l,l,l,l,l,l,l,l,l,new A.aM(new A.bq(A.f1(10),B.m),q),new A.aM(B.bG,s),l,l,l,l,l)),new A.c0(B.ls,A.lS(B.NY,m.gadp(),A.fv(l,l,A.i2(new A.aaL()),l,l,l,l,l,l,l,l,l,l,l,l,new A.aM(new A.bq(A.f1(10),B.m),q),new A.aM(B.bG,s),l,l,l,l,l)),l)],k),B.aW,B.dG,B.bl,l),l))
-j.push(new A.c0(B.eA,A.iY(A.lS(B.NU,new A.aaM(a),A.fv(l,l,A.i2(new A.aaN()),l,l,l,l,l,l,l,l,l,l,l,l,new A.aM(new A.bq(A.f1(10),B.m),q),new A.aM(B.bG,s),l,l,l,l,l)),50,300),l))
+j.push(new A.c0(B.eA,A.iY(A.lS(B.NV,new A.aaM(a),A.fv(l,l,A.i2(new A.aaN()),l,l,l,l,l,l,l,l,l,l,l,l,new A.aM(new A.bq(A.f1(10),B.m),q),new A.aM(B.bG,s),l,l,l,l,l)),50,300),l))
 return A.aiW(l,B.rf,A.GP(A.aiV(!0,new A.c0(B.By,A.Cz(j,B.aW,B.cD,B.bl),l),!0),B.aO))}}
 A.aaR.prototype={
 $1(a){return A.ia(B.d.mp(a),null)},
@@ -76940,8 +76940,8 @@ B.j_=new A.Fb(0,"portrait")
 B.j0=new A.Fb(1,"landscape")
 B.Hj=new A.vc(null)
 B.Lk=new A.l(!0,B.j,null,null,null,null,26,B.C,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.NW=new A.dB("Nrysho matricen dhe mos harro ta b\xebni update!!!",null,B.Lk,null,null,null,null,null,null)
-B.Hk=new A.c0(B.eB,B.NW,null)
+B.NX=new A.dB("Nrysho matricen dhe mos harro ta b\xebni update!!!",null,B.Lk,null,null,null,null,null,null)
+B.Hk=new A.c0(B.eB,B.NX,null)
 B.aQ=new A.Fy(0,"fill")
 B.Y=new A.Fy(1,"stroke")
 B.Hl=new A.kp(1/0)
@@ -77493,14 +77493,14 @@ B.MY=new A.l(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.MC=new A.l(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.NM=new A.cS(B.Ml,B.Nv,B.Ng,B.Lb,B.N8,B.Mj,B.Nx,B.LA,B.M1,B.N1,B.L3,B.Nh,B.N5,B.MY,B.MC)
 B.NN=new A.dB("Sh\xebnime",null,null,null,null,null,null,null,null)
-B.NO=new A.dB("Kliko p\xebr t\xeb eleminuar strategjit\xeb e dominuara",null,B.aT,null,null,null,null,null,null)
+B.NO=new A.dB("Kliko p\xebr t\xeb eliminuar strategjit\xeb e dominuara",null,B.aT,null,null,null,null,null,null)
 B.NP=new A.dB("Shto nj\xeb rresht",null,B.aT,null,null,null,null,null,null)
 B.NQ=new A.dB("Kliko p\xebr t\xeb shtuar nj\xeb matrix",null,B.aT,null,null,null,null,null,null)
 B.NR=new A.dB("Update Matrix",null,B.aT,null,null,null,null,null,null)
 B.NS=new A.dB("Zbrit nj\xeb rresht",null,B.aT,null,null,null,null,null,null)
-B.NU=new A.dB("Kthehu tek faqja kryesore",null,B.aT,null,null,null,null,null,null)
-B.NV=new A.dB("Shto nj\xeb shtyll\xeb",null,B.aT,null,null,null,null,null,null)
-B.NX=new A.dB("Procesi i eleminimit iterativ t\xeb strategjive rigorozisht t\xeb dominuara",null,B.aT,null,null,null,null,null,null)
+B.NU=new A.dB("Procesi i eliminimit iterativ t\xeb strategjive t\xeb dominuara rigorozisht",null,B.aT,null,null,null,null,null,null)
+B.NV=new A.dB("Kthehu tek faqja kryesore",null,B.aT,null,null,null,null,null,null)
+B.NW=new A.dB("Shto nj\xeb shtyll\xeb",null,B.aT,null,null,null,null,null,null)
 B.NY=new A.dB("Zbrit nj\xeb shtyll\xeb",null,B.aT,null,null,null,null,null,null)
 B.H3=new A.f(0.056,0.024)
 B.GS=new A.f(0.108,0.3085)
