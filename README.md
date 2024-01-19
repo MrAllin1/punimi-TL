@@ -1,0 +1,2 @@
+This repository contains the build version of a quick Flutter website created as part of a university project on Game Theory. The project focuses on the iterative elimination process of strictly dominated strategies.In this website you can add your own matrix and then get the result after it goes thru IEPSDS. 
+Here is the link to the youtube video: https://youtu.be/7H4g2yIUdmE?si=sSg172b482h301mZ 
